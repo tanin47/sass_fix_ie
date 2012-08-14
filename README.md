@@ -3,7 +3,7 @@ SASS Extension to fix display:inline-block on IE
 
 It automatically includes ```zoom:1``` and ```*display:inline``` after every ```display: inline-block```.
 
-This is to fix the inline-block problem on IE7.
+This is to fix the inline-block problem on IE7. In case you don't know, IE7 doesn't support ```display:inline-block``` on some elements.
 
 Requirement
 -------------------
