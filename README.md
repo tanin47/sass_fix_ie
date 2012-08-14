@@ -31,3 +31,6 @@ License
 ---------
 
 Do What The Fuck You Want To Public License (http://sam.zoy.org/wtfpl/)
+
+0. You just DO WHAT THE FUCK YOU WANT TO.
+
